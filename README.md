@@ -1,5 +1,5 @@
 # trumpists
-Code for the paper "Did Trumpists perform worse in US Senate election polls?" 
+Code for the paper "Did Trumpists perform worse in US Senate election polls?" by Sina Chen and John Körtner.
 
 
 ## Directory description
